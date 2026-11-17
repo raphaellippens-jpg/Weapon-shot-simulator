@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SHOTGUN Simulator</title><link rel="stylesheet" href="style.css"></head>
+<body><main class="sim">
+  <header class="topbar"><a class="back" href="index.html">← LOADOUT MENU</a><span class="tag">SIMULATION / 01</span></header>
+  <h2>SHOTGUN</h2><p class="desc">Heavy impact · Close-range visual simulation</p>
+  <section class="stage" aria-label="Visual firing simulation">
+    <div class="aim"><i></i></div><div class="weapon-shape"></div><div id="count" class="count">3</div>
+  </section>
+  <div class="controls"><button id="cock" class="shoot">COCK / READY</button><button id="shoot" class="shoot" disabled>SHOOT</button><span id="status" class="status">NOT COCKED</span></div>
+  <p class="hint">Press COCK / READY first, then SHOOT. The iPad flashlight shortcut is triggered at the shot.</p>
+</main><div id="flash" class="flash"></div><script src="weapon.js"></script></body></html>

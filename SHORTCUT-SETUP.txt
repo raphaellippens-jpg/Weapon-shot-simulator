@@ -1,0 +1,15 @@
+WEAPON FLASH — iPad Shortcut setup
+
+1. Open the Shortcuts app and tap + to create a shortcut.
+2. Name it exactly: Weapon Flash
+3. Add action: Set Flashlight → Turn On.
+4. Add action: Wait → 0.15 seconds.
+5. Add action: Set Flashlight → Turn Off.
+6. Save the shortcut.
+
+The website opens this shortcut at the end of the countdown using Apple's
+shortcuts://run-shortcut URL scheme. iPadOS may switch to the Shortcuts app
+when it runs. The website plays its sound effect in Safari.
+
+If the flashlight action is not visible, search Shortcuts actions for
+"Set Flashlight". The LED flash is on the back of the iPad, not the screen.

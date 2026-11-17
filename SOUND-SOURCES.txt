@@ -1,0 +1,15 @@
+SOUND SOURCES
+
+This build loads the following CC0 MP3 effects directly from SFXMint:
+- Pistol shot: https://sfxmint.com/dl/impact-gunshot-10.mp3
+- Pistol slide cock: https://sfxmint.com/dl/gun-cocking-01.mp3
+- Shotgun blast: https://sfxmint.com/dl/shotgun-01.mp3
+- Shotgun pump/cock: https://sfxmint.com/dl/gun-cocking-07.mp3
+- Rifle shot: https://sfxmint.com/dl/impact-gunshot-08.mp3
+- Rifle bolt cock: https://sfxmint.com/dl/gun-cocking-03.mp3
+- SMG burst: https://sfxmint.com/dl/automatic-gunfire-04.mp3
+
+SFXMint labels these files CC0 1.0, but also states that its effects are
+AI-generated/procedurally synthesized and checked. They are not claimed to be
+field recordings. The audio is loaded from the internet, so the website needs
+an internet connection for sound playback.
